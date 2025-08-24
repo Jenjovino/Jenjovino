@@ -1,12 +1,8 @@
 # ​ Oii! Eu sou a Jhennifer Yasmim
 
-Atualmente estudo e desenvolvo projetos na área de **Dados**, explorando ferramentas como **Python, SQL, Power BI, Excel e Looker Studio**.  
-Gosto de transformar informações em visualizações claras e criar soluções que ajudem na tomada de decisão.
+Atualmente estudo e desenvolvo projetos na área de **Dados**, explorando ferramentas como **Python, SQL, Power BI, Excel e Looker Studio**. Gosto de transformar informações em visualizações claras e criar soluções que ajudem na tomada de decisão.
 
 ---
-## ​Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jhennifer-jovino-762272237)  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhennifer.dev@gmail.com)
-
 
 ![Jhennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenjovino&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenjovino&layout=compact&theme=radical)
 
@@ -16,3 +12,5 @@ Gosto de transformar informações em visualizações claras e criar soluções 
 
 ---
 
+## ​Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jhennifer-jovino-762272237)  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhennifer.dev@gmail.com)
