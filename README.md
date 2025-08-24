@@ -4,8 +4,7 @@ Atualmente estudo e desenvolvo projetos na área de **Dados**, explorando ferram
 Gosto de transformar informações em visualizações claras e criar soluções que ajudem na tomada de decisão.  
 
 ## Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhennifer.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhennifer.dev@gmail.com)
 
 ---
 
