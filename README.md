@@ -8,13 +8,10 @@ Gosto de transformar informações em visualizações claras e criar soluções 
 
 ---
 
-## 📈 Estatísticas
 ![Jhennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhenniferyasmim&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhenniferyasmim&layout=compact&theme=radical)
 
 ---
-
-## 🛠️ Tecnologias
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
