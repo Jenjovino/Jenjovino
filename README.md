@@ -8,8 +8,7 @@ Gosto de transformar informações em visualizações claras e criar soluções 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jhennifer-jovino-762272237)  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhennifer.dev@gmail.com)
 
 
-![Jhennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenjovino&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenjovino&layout=compact&theme=radical)
+![Jhennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenjovino&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenjovino&layout=compact&theme=radical)
 
 ---
 
